@@ -63,6 +63,5 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - xml (enabled by default - don't turn it off)
 # demografi
 # Demografi
-# tugas_web_lintang
 "# demografi_Zaky_19120110011" 
 # demografi_zaky
